@@ -10,7 +10,7 @@ you'll learn about it later. */
 
 body {
   margin: 0;
-  background: #454545;
+  background: #eee;
   font-family: Besley, serif;
 }
 
@@ -18,7 +18,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: rgb(164, 139, 139);
+  background: white;
   border-bottom: 1px solid #ddd;
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
   padding: 8px;
